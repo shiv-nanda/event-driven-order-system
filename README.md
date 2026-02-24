@@ -1,2 +1,3 @@
 # event-driven-order-system
-Kafka-based event driven microservices architecture for order processing and enterprise integrations
+Reactive Event-Driven Order Management Microservice built using Spring Boot WebFlux.
+Demonstrates non-blocking REST APIs, integration-ready architecture, and production-grade backend design.
